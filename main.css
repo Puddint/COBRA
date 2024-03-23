@@ -1,5 +1,5 @@
 body{
-    background-color: linear-gradient(120deg, rgb(60, 150, 60), rgb(0, 255, 0));
+    background: linear-gradient(120deg, rgb(80, 150, 80), rgb(150, 170, 60));
 }
 
 .box{
