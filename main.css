@@ -2,16 +2,6 @@ body{
     background-color: black;
 }
 
-#player {
-    position: absolute;
-    background: linear-gradient(120deg, orange, red);
-    width: 5px;
-    height: 5px;
-    border: none;
-    border-radius: 50%;
-    box-shadow: 5px 30px 30px rgba(0,0,0, .5);
-}
-
 .box{
     position: absolute;
     background: linear-gradient(120deg, orange, red);
